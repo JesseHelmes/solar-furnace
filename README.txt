@@ -46,6 +46,14 @@ Forge Forum: https://forums.minecraftforge.net/
 Forge Discord: https://discord.gg/UvedJ9m  
 
 
+Features
+- Blocks
+	- Solar furnace
+		- Does not requires Fuel
+		- Cooks anything that has a recipe for Minecraft furnace
+		- starts cooking when sun is up until it is down
+
+Planned features
 
 Known bugs
 - when using stairs (could be half blocks too) on furnace, it still receives sunlight (it is not a bug, it is a feature!)
